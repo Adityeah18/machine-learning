@@ -1,0 +1,39 @@
+Machine Learning
+├── Supervised Learning
+│   ├── Regression
+│   │   ├── Linear Regression
+│   │   └── Logistic Regression
+│   ├── Classification
+│   │   ├── Perceptron
+│   │   ├── KNN
+│   │   ├── SVM
+│   │   └── Decision Trees
+│   ├── Model Issues
+│   │   ├── Overfitting
+│   │   ├── Underfitting
+│   │   └── Regularization
+│   └── Validation
+│       ├── Train-Test Split
+│       └── Cross-Validation
+│
+├── Unsupervised Learning
+│   ├── Clustering
+│   │   ├── K-Means
+│   │   └── Hierarchical
+│   └── Dimensionality Reduction
+│       ├── PCA
+│       └── t-SNE
+│
+├── Reinforcement Learning
+│   ├── Agent
+│   ├── Environment
+│   ├── State
+│   ├── Actions
+│   ├── Rewards
+│   └── Q-Learning
+│
+└── Neural Networks / Deep Learning
+    ├── Perceptron
+    ├── Feedforward NN
+    ├── CNN (Computer Vision)
+    └── RNN (Sequences)
